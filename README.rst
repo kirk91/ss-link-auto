@@ -16,23 +16,27 @@ pip / easy\_install
 ~~~~~~~~~~~~~~~~~~~
 
 .. code:: bash
+
     $ pip install auto-ss
 
 or
 
 .. code:: bash
+
     $ easy_install auto-ss
 
 Github
 ~~~~~~
 
 .. code:: bash
+
     $ pip install git+https://github.com/steven-hl/ss-link-auto.git
 
 Usage
 -----
 
 .. code:: bash
+
     $ auto-ss -h
 
     usage: auto-ss [-h] [--mode MODE] [--timeout TIMEOUT] email password

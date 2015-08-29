@@ -3,7 +3,7 @@
 
 from setuptools import setup
 
-__version__ = '0.1.1'
+__version__ = '0.1.2'
 
 setup(
     name='auto-ss',
@@ -16,7 +16,7 @@ setup(
     license='ISC',
     long_description=open('README.rst').read(),
     py_modules=['auto_ss'],
-    package_data={"": ["LICENSE"],},
+    package_data={"": ["LICENSE"]},
     entry_points={
         'console_scripts': [
             'auto-ss=auto_ss:main',

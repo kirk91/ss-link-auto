@@ -70,7 +70,7 @@ Demo
 Run in avaiable mode
 ~~~~~~~~~~~~~~~~~~~~
 
-.. code:: zsh
+.. code:: bash
 
     ➜  ~  auto-ss xxx@xxx.com xxx
     ############### 2015-08-27 23:19:30 Shadowsocks Accounts ###############
@@ -90,7 +90,7 @@ Run in speed mode
 
 It will test shadowsocks conection speed by view https://www.google.com.hk
 
-.. code:: zsh
+.. code:: bash
 
     ➜  ~  auto-ss xxx@xxx.com xxxx --mode speed
     ############### 2015-08-27 23:29:56 Shadowsocks Accounts ###############
@@ -114,7 +114,4 @@ It will test shadowsocks conection speed by view https://www.google.com.hk
     104.250.143.243                                           speed is: 7kb/s
     104.250.146.37                                            speed is: 4kb/s
     104.250.147.22                                            speed is: 8kb/s
-
-
-
 

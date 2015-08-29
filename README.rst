@@ -40,7 +40,7 @@ Github
 Note
 ----
 
-If you run auto-ss in mode `speed` or `run`, you need install `shadowsocks <https://github.com/shadowsocks/shadowsocks>`_
+If you run auto-ss in mode ``speed`` or ``run``, you need install `shadowsocks <https://github.com/shadowsocks/shadowsocks>`_
 firstly.
 
 Usage
